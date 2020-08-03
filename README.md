@@ -7,10 +7,6 @@ For two words query, you can use: domestic cat
 ### requirements
 ```
 NLTK
-```
-```
 BeautifulSoup
-```
-```
 NumPy
 ```
